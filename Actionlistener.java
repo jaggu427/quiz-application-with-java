@@ -1,0 +1,5 @@
+package quizapplication;
+
+interface Actionlistener {
+    
+}
